@@ -2,9 +2,6 @@
   "name": "task-hive",
   "version": "1.0.0",
   "main": "tailwind.config.js",
-  "scripts": {
-    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css"
-  },
   "author": "",
   "license": "ISC",
   "description": "",
